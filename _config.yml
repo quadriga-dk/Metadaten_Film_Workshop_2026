@@ -1,8 +1,15 @@
 description: |-
-  <strong>Wann:</strong> 22.01.26 10 Uhr - 23.01.2026 14 Uhr<br>
-  <strong>Was:</strong> Recherche von (Meta-)Daten; Datenbereinigung mit OpenRefine; Visualisierung mit Excel; Fachlicher Austausch (ggf. Poster Session)<br>
-  <strong>Wo:</strong> ZEM, Potsdam<br>
-  <strong>Anmeldung:</strong> für 15 Teilnehmende, Unterstützung für Reisekosten ist vorhanden<br>
-  <strong>Kurze Beschreibung:</strong> QUADRIGA + In Kooperation mit ZEM
+  <strong>Wann:</strong> <br> 
+  22.01.26 10 Uhr - 23.01.2026 14 Uhr<br><br>
+  <strong>Was:</strong><br>
+  Recherche von (Meta-)Daten; Datenbereinigung mit OpenRefine; Visualisierung mit Excel; Fachlicher Austausch (ggf. Poster Session)<br><br>
+  <strong>Wo:</strong><br> 
+  ZEM, Potsdam<br><br>
+  <strong>Anmeldung:</strong><br>
+  für 15 Teilnehmende, Unterstützung für Reisekosten ist vorhanden<br><br>
+  <strong>Kurze Beschreibung:</strong><br>
+  QUADRIGA + In Kooperation mit ZEM
 logo: workshop.png
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
