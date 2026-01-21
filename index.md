@@ -11,7 +11,7 @@
 | | 10:15 |  Einführung |
 | | 11:15 | Vorstellung Fallstudie Filmuniversität (inkl. Pause) |
 | | 11:45 | Metadaten Datenrecherche |
-| | 13:00 | *Mittagspause*<br>Soul Garden (Koreanisch) ca. 22 Personen |
+| | 13:00 | *Mittagspause*<br>Soul Garden (Koreanisch), Brandenburger Straße 11, Potsdam |
 | | 14:00 | **Gruppenfoto**<br>ggf. Abschluss Metadaten |
 | | | – Wann und Warum bereinigen? Und wann nicht? (10 Minuten) (Hannes)<br>– Erfahrung der Teilnehmer*innen (10-15 Minuten)<br>– Beispielprojekte, und wie dort Vorgegangen wurde bei der Bereinigung (aus DH - 1001 Books you must read before you die) (Jonas), DH am Beispiel correspSearch (Marthe)) (jeweils 5 Minuten) |
 | | | – Bereinigung mit OpenRefine (Kapitel 4.3) (2,5-3h) <br>– Kurzvorstellung von Hypothesis und technische Einweisung (10-20min, Ann-Marie)<br>– Individuelles Annotieren (60-70min oder länger?)<br>– Feedback & Austauschrunde: „Wie war eure Erfahrung mit dem Kapitel?" & „Wie fandet ihr das Annotieren?" (10 Minuten) |
