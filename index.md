@@ -8,8 +8,7 @@
 | Datum | Zeit | Inhalt |
 |-------|------|--------|
 | 22.01.26 | 10:00 | Begrüßung + Vorstellungsrunde |
-| | 10:15 |  Einführung
- |
+| | 10:15 |  Einführung |
 | | 11:15 | Einführung der Fallstudie Bild 2 + Digital Humanities, Filmgeschichte, Multimodalität <br>(danach Pause) |
 | | 11:45 | – Einführung Metadaten (Was sind Metadaten? 10 Minuten) (Hannes)<br>– Blickwinkel der Disziplinen (Film (Thomas), Literatur (DH) (Jonas), InfoWiss (Marthe) je 5 Minuten)<br>– „Diskussion und Fragen" (15 Minuten)<br>– Übungen (Datenbanken (OMDB, IMDB, ...) und Recherchen darin) (20 Minuten) (Thomas)<br>– Ergebnisse zusammentragen und Abschluss (15 Minuten) |
 | | 13:00 | *Mittagspause*<br>Soul Garden (Koreanisch) ca. 22 Personen |
