@@ -1,18 +1,7 @@
 # Workshop: (Meta-)Daten bei Film, Video und bewegtem Bild – Recherche, Bereinigung, Visualisierung mit OpenRefine und Excel
 **Wann:** 22.01.26 10 Uhr - 23.01.2026 14 Uhr  
 
-**Was:**  
-- Recherche von (Meta-)Daten
-- Datenbereinigung mit OpenRefine
-- Visualisierung mit Excel
-- Fachlicher Austausch (ggf. Poster Session)
-
-**Wo:** ZEM, Potsdam  
-
-**Anmeldung:** für 15 Teilnehmende, Unterstützung für Reisekosten ist vorhanden  
-
-**Kurze Beschreibung:**  
-QUADRIGA + In Kooperation mit ZEM
+**Wo:** Brandenburgisches Zentrum für Medienwissenschaften (ZeM) Adresse: Hermann-Elflein-Straße 18, 14467 Potsdam. 
 
 ## Zeitplan
 
