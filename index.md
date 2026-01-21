@@ -7,10 +7,10 @@
 
 | Datum | Zeit | Inhalt |
 |-------|------|--------|
-| 22.01.26 | 10:00 | Begrüßung + Vorstellungsrunde |
+| 22.01.26 | 10:00 | Begrüßung |
 | | 10:15 |  Einführung |
-| | 11:15 | Einführung der Fallstudie Bild 2 + Digital Humanities, Filmgeschichte, Multimodalität <br>(danach Pause) |
-| | 11:45 | – Einführung Metadaten (Was sind Metadaten? 10 Minuten) (Hannes)<br>– Blickwinkel der Disziplinen (Film (Thomas), Literatur (DH) (Jonas), InfoWiss (Marthe) je 5 Minuten)<br>– „Diskussion und Fragen" (15 Minuten)<br>– Übungen (Datenbanken (OMDB, IMDB, ...) und Recherchen darin) (20 Minuten) (Thomas)<br>– Ergebnisse zusammentragen und Abschluss (15 Minuten) |
+| | 11:15 | Vorstellung Fallstudie Filmuniversität (inkl. Pause) |
+| | 11:45 | Metadaten Datenrecherche |
 | | 13:00 | *Mittagspause*<br>Soul Garden (Koreanisch) ca. 22 Personen |
 | | 14:00 | **Gruppenfoto**<br>ggf. Abschluss Metadaten |
 | | | – Wann und Warum bereinigen? Und wann nicht? (10 Minuten) (Hannes)<br>– Erfahrung der Teilnehmer*innen (10-15 Minuten)<br>– Beispielprojekte, und wie dort Vorgegangen wurde bei der Bereinigung (aus DH - 1001 Books you must read before you die) (Jonas), DH am Beispiel correspSearch (Marthe)) (jeweils 5 Minuten) |
