@@ -22,3 +22,29 @@
 | | 14:00 | **ENDE** |
 | | 14:30 | (Weiter-)Entwicklung von datengestützter eigener Forschung |
 | | 16:00 | **ENDE** |
+
+# QUADRIGA Ressourcen - Bewegtes Bild
+
+## OER Fallstudie „Bewegtes Bild"
+
+**Studentische Filme an der Filmuniversität Babelsberg zur Wendezeit (1985-1999)**  
+[https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/intro.html](https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/intro.html)
+
+## Rechercheübungen
+
+Links zu Filmdatenbanken:
+
+- [IMDb](https://www.imdb.com/de/)
+- [omdb](https://www.omdb.org/de/de)
+- [OFDb](https://www.ofdb.de/)
+- [TMDB](https://www.themoviedb.org/?language=de)
+- [filmportal.de](https://www.filmportal.de/)
+- [DEFA-Stiftung](https://www.defa-stiftung.de/filme/filme-suchen/)
+- [Dokumentarfilmgeschichte](http://www.db.dokumentarfilmgeschichte.de/search.php)
+
+## Weitere QUADRIGA Ressourcen
+
+- [QUADRIGA Fallstudien / Open Educational Resources](https://quadriga-dk.github.io/fallstudien/)
+- [QUADRIGA Homepage](https://www.quadriga-dk.de/de/)
+
+
