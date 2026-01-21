@@ -8,7 +8,8 @@
 | Datum | Zeit | Inhalt |
 |-------|------|--------|
 | 22.01.26 | 10:00 | Begrüßung + Vorstellungsrunde |
-| | 10:15 | – (LEGO-)Statistik, Was bringe ich mit, was möchte ich mitnehmen? und Vorstellungsrunde <br>– Übergang in Einführung Datenkompetenz: Leute berichten/bauen was Datenkompetenz für Sie bedeutet, was sie noch brauchen.<br>(Kürzen auf 45 Minuten?) |
+| | 10:15 |  10.15 Uhr
+Einführung |
 | | 11:15 | Einführung der Fallstudie Bild 2 + Digital Humanities, Filmgeschichte, Multimodalität <br>(danach Pause) |
 | | 11:45 | – Einführung Metadaten (Was sind Metadaten? 10 Minuten) (Hannes)<br>– Blickwinkel der Disziplinen (Film (Thomas), Literatur (DH) (Jonas), InfoWiss (Marthe) je 5 Minuten)<br>– „Diskussion und Fragen" (15 Minuten)<br>– Übungen (Datenbanken (OMDB, IMDB, ...) und Recherchen darin) (20 Minuten) (Thomas)<br>– Ergebnisse zusammentragen und Abschluss (15 Minuten) |
 | | 13:00 | *Mittagspause*<br>Soul Garden (Koreanisch) ca. 22 Personen |
