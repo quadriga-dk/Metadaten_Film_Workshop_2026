@@ -1,4 +1,10 @@
 # GitHub Pages Configuration
-title: Workshop Metadaten Film 2026
-description: Zeitplan und Informationen zum Workshop
+title: (Meta-)Daten bei Film, Video und bewegtem Bild – Recherche, Bereinigung, Visualisierung mit OpenRefine und Excel
+description: |-
+  <strong>Wann:</strong> 22.01.26 10 Uhr - 23.01.2026 14 Uhr<br>
+  <strong>Was:</strong> Recherche von (Meta-)Daten; Datenbereinigung mit OpenRefine; Visualisierung mit Excel; Fachlicher Austausch (ggf. Poster Session)<br>
+  <strong>Wo:</strong> ZEM, Potsdam<br>
+  <strong>Anmeldung:</strong> für 15 Teilnehmende, Unterstützung für Reisekosten ist vorhanden<br>
+  <strong>Kurze Beschreibung:</strong> QUADRIGA + In Kooperation mit ZEM
+logo: workshop.png
 theme: jekyll-theme-minimal
