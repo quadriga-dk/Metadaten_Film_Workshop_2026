@@ -12,12 +12,12 @@
 | | 11:15 | Vorstellung Fallstudie Filmuniversität (inkl. Pause) |
 | | 11:45 | Metadaten Datenrecherche |
 | | 12:50 | Gruppenfoto + *Mittagspause*<br>Soul Garden (Koreanisch), Brandenburger Straße 11, Potsdam |
-| | 14:00 | Datenbereinigung: Warum und wann? Beispielprojekte. Datenbereinigung mit OpenRefine, [OER](https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/bereinigung/openRefine/0_datenbereinigung.html)|
+| | 14:00 | Datenbereinigung: Warum und wann? Beispielprojekte. Datenbereinigung mit OpenRefine, [QUADRIGA OER 4.3](https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/bereinigung/openRefine/0_datenbereinigung.html)|
 | | 17:15 | Tagesabschluss |
 | | 17:30 | Gemeinsames Abendessen (Genusswerkstatt) |
 | | 17:45 | *gemeinsames Abendessen?* <br>Genusswerkstatt, Breite Str. 1A, 14467 Potsdam |
 | 23.01.26 | 10:00 | Visualisierung (Gastvortrag von Mark-Jan Bludau, FH Potsdam) |
-| | 12:30 | Visualisierung mit Excel (OER) |
+| | 12:30 | Visualisierung mit Excel [QUADRIGA OER 5.2](https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/auswertung/datenvisualisierung.html#)|
 | | 13:30 | *Abschluss* |
 | | 14:00 | **ENDE** |
 | | 14:30 | (Weiter-)Entwicklung von datengestützter eigener Forschung |
