@@ -16,9 +16,8 @@
 | | 17:15 | Tagesabschluss |
 | | 17:30 | Gemeinsames Abendessen (Genusswerkstatt) |
 | | 17:45 | *gemeinsames Abendessen?* <br>Genusswerkstatt, Breite Str. 1A, 14467 Potsdam |
-| 23.01.26 | 10:00 | Visualisierung (Gastvortrag) (Mark-Jan) |
-| | 12:00 | *Pause (Brötchen holen?)*  |
-| | 12:30 | Visualisierung 2 (Kapitel 5.2) |
+| 23.01.26 | 10:00 | Visualisierung (Gastvortrag von Mark-Jan Bludau, FH Potsdam) |
+| | 12:30 | Visualisierung mit Excel (OER) |
 | | 13:30 | *Abschluss* |
 | | 14:00 | **ENDE** |
 | | 14:30 | (Weiter-)Entwicklung von datengestützter eigener Forschung |
