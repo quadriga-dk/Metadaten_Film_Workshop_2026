@@ -44,5 +44,6 @@ Links zu Filmdatenbanken:
 
 - [QUADRIGA Fallstudien / Open Educational Resources](https://quadriga-dk.github.io/fallstudien/)
 - [QUADRIGA Homepage](https://www.quadriga-dk.de/de/)
+- [QUADRIGA Datenkompetenzframework](https://doi.org/10.5281/zenodo.14747822)
 
 
