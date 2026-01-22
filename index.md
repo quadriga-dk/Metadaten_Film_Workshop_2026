@@ -14,7 +14,7 @@
 | | 12:50 | Gruppenfoto + *Mittagspause*<br>Soul Garden (Koreanisch), Brandenburger Straße 11, Potsdam |
 | | 14:00 | Datenbereinigung: Warum und wann? Beispielprojekte. Datenbereinigung mit OpenRefine, [QUADRIGA OER 4.3](https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/bereinigung/openRefine/0_datenbereinigung.html)|
 | | 17:15 | Tagesabschluss |
-| | 17:45 | *gemeinsames Abendessen?* <br>Genusswerkstatt, Breite Str. 1A, 14467 Potsdam |
+| | 17:45 | *gemeinsames Abendessen* <br>Genusswerkstatt, Breite Str. 1A, 14467 Potsdam |
 | 23.01.26 | 10:00 | Visualisierung (Gastvortrag von [Mark-Jan Bludau](https://www.markjanbludau.de), FH Potsdam) |
 | | 12:30 | Visualisierung mit Excel [QUADRIGA OER 5.2](https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/auswertung/datenvisualisierung.html#)|
 | | 13:30 | *Abschluss* |
