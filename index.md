@@ -40,6 +40,10 @@ Links zu Filmdatenbanken:
 - [DEFA-Stiftung](https://www.defa-stiftung.de/filme/filme-suchen/)
 - [Dokumentarfilmgeschichte](http://www.db.dokumentarfilmgeschichte.de/search.php)
 
+## Folien
+- [Foliensatz Workshop](https://docs.google.com/presentation/d/1fi3BhkGNtePh8-15-2SXOs7tlFHCxIII4DtUnn98NpI/edit)
+- Gastvortrag Visualisierung (Folien folgen)
+
 ## Weitere QUADRIGA Ressourcen
 
 - [QUADRIGA Fallstudien / Open Educational Resources](https://quadriga-dk.github.io/fallstudien/)
