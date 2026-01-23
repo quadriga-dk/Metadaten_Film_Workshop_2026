@@ -42,7 +42,7 @@ Links zu Filmdatenbanken:
 
 ## Folien
 - [Foliensatz Workshop](https://docs.google.com/presentation/d/1fi3BhkGNtePh8-15-2SXOs7tlFHCxIII4DtUnn98NpI/edit)
-- [Gastvortrag Visualisierung]()
+- Gastvortrag Visualisierung (Folien folgen)
 
 ## Weitere QUADRIGA Ressourcen
 
