@@ -42,7 +42,7 @@ Links zu Filmdatenbanken:
 
 ## Folien
 - [Foliensatz Workshop](https://docs.google.com/presentation/d/1fi3BhkGNtePh8-15-2SXOs7tlFHCxIII4DtUnn98NpI/edit) ([PDF](./ZeM%20Workshop.pdf))
-- [Gastvortrag Visualisierung](https://docs.google.com/presentation/d/1UCL07wYtCiOo1363aWRw2Klq--HakpoffLm4rm7kC-I/edit) ([PDF](./Einführung-InfoVis_Quadriga%20_Bludau.pdf))
+- [Gastvortrag Visualisierung](https://docs.google.com/presentation/d/1UCL07wYtCiOo1363aWRw2Klq--HakpoffLm4rm7kC-I/edit) ([PDF](./Einführung-InfoVis_Quadriga_Bludau.pdf))
 
 ## Weitere QUADRIGA Ressourcen
 
