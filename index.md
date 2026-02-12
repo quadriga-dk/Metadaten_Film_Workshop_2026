@@ -1,7 +1,7 @@
 # Workshop: (Meta-)Daten bei Film, Video und bewegtem Bild – Recherche, Bereinigung, Visualisierung mit OpenRefine und Excel
-**Wann:** 22.01.26 10 Uhr - 23.01.2026 14 Uhr  
+**Wann:** 22.01.26 10 Uhr - 23.01.2026 14 Uhr
 
-**Wo:** Brandenburgisches Zentrum für Medienwissenschaften (ZeM) Adresse: Hermann-Elflein-Straße 18, 14467 Potsdam. 
+**Wo:** Brandenburgisches Zentrum für Medienwissenschaften (ZeM) Adresse: Hermann-Elflein-Straße 18, 14467 Potsdam.
 
 ## Zeitplan
 
@@ -25,7 +25,7 @@
 ## Ressourcen/Handouts
 
 ## OER Fallstudie „Bewegtes Bild"
-**Studentische Filme an der Filmuniversität Babelsberg zur Wendezeit (1985-1999)**  
+**Studentische Filme an der Filmuniversität Babelsberg zur Wendezeit (1985-1999)**
 [https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/intro.html](https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/intro.html)
 
 ## Rechercheübungen
@@ -41,8 +41,8 @@ Links zu Filmdatenbanken:
 - [Dokumentarfilmgeschichte](http://www.db.dokumentarfilmgeschichte.de/search.php)
 
 ## Folien
-- [Foliensatz Workshop](https://docs.google.com/presentation/d/1fi3BhkGNtePh8-15-2SXOs7tlFHCxIII4DtUnn98NpI/edit)
-- Gastvortrag Visualisierung (Folien folgen)
+- [Foliensatz Workshop](https://docs.google.com/presentation/d/1fi3BhkGNtePh8-15-2SXOs7tlFHCxIII4DtUnn98NpI/edit) ([PDF](./assets/ZeM%20Workshop.pdf))
+- Gastvortrag Visualisierung (https://docs.google.com/presentation/d/1UCL07wYtCiOo1363aWRw2Klq--HakpoffLm4rm7kC-I/edit) ([PDF](./assets/Einführung-InfoVis_Quadriga%20_Bludau.pdf))
 
 ## Weitere QUADRIGA Ressourcen
 
